@@ -1,0 +1,7 @@
+{
+  "name": "watchit-dal",
+  "version": "1.0.0",
+  "dependencies": {
+    "mongoose": "^4.1.12"
+  }
+}
